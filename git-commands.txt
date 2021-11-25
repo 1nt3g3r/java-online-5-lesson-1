@@ -22,4 +22,7 @@
 КАК РАБОТАТЬ С ВЕТКАМИ
 git branch - показывает, на какой вы сейчас ветки
 git checkout -b <branch_name> - создает новую ветку с именем <branch_name> и переключается на эту ветку
-git checkout <branch_name> - переключается на существующую ветку с именем <branch_name>
+git checkout <branch_name> - переключается на существующую ветку с именем <branch_name>git 
+
+
+This text in branch B
